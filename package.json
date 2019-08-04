@@ -9,6 +9,7 @@
   "author": "Shutarou Takayama",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^1.2.0"
+    "@slack/bolt": "^1.2.0",
+    "dotenv": "^8.0.0"
   }
 }
