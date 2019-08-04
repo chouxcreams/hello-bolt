@@ -1,0 +1,14 @@
+{
+  "name": "hello-bolt",
+  "version": "0.0.0",
+  "description": "Bolt Framework Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shutarou Takayama",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^1.2.0"
+  }
+}
